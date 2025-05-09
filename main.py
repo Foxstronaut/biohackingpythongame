@@ -254,7 +254,8 @@ trackvar1 = ""
 trackvar2 = ""
 trackvar3 = ""
 trackvar4 = ""
-
+input(f""" 
+did you know {name} about these facts?""")
 pickvarabcd = input(r"""
             To begin your biohacking journey, you need
             to select the variables you will track.
